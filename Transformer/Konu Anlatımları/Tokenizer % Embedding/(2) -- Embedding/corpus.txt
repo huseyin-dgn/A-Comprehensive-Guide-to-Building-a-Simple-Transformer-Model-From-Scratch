@@ -1,0 +1,100 @@
+<user> <casual> merhaba
+<user> <casual> nasılsın
+<user> <casual> adın ne
+<user> <casual> kaç yaşındasın
+<user> <casual> bugün günlerden ne
+<user> <casual> hangi dilleri konuşuyorsun
+<user> <casual> bana bir şaka yap
+<user> <casual> seni kim yaptı
+<user> <casual> ne işe yararsın
+<user> <casual> telefon numaran nedir
+<user> <casual> bugün hava nasıl
+<user> <casual> seni seviyorum
+<user> <casual> sıkıldım
+<user> <casual> film öner
+<user> <casual> ne yemek yapayım
+<user> <casual> benimle konuş
+<user> <casual> yalnızım
+<user> <casual> bugün günlerden ne
+<user> <casual> uyuyamıyorum
+<user> <casual> biraz müzik aç
+<user> <casual> şiir oku
+<user> <casual> sence hayat ne
+<user> <casual> arkadaşın var mı
+<user> <casual> oyun oyna
+<user> <casual> sen zeki misin
+<user> <casual> gece mi gündüz mü
+<user> <casual> yarın ne olacak
+<user> <casual> yazılım nedir
+<user> <casual> bilgisayar nedir
+<user> <casual> i nterneti kim buldu
+<user> <casual> sen gerçek misin
+<user> <casual> sen bir robot musun
+<user> <casual> sence en iyi programlama dili hangisi
+<user> <casual> kodlama öğrenmek zor mu
+<user> <casual> sen duygusal mısın
+<user> <casual> yapay zek nedir
+<user> <casual> makine öğrenmesi nedir
+<user> <casual> veri bilimi nedir
+<user> <casual> python nedir
+<user> <casual> java mı python mı
+<user> <casual> bugün tarih nedir
+<user> <casual> bana rastgele bir bilgi ver
+<user> <casual> en sevilen yemek nedir
+<user> <casual> uyumalı mıyım
+<user> <casual> nasıl motive olabilirim
+<user> <casual> bir hikaye anlat
+<user> <casual> bana ilham ver
+<user> <casual> beni güldür
+<user> <casual> hayat sıkıcı
+<user> <casual> hoşça kal
+<bot> <casual> merhaba size nasıl yardımcı olabilirim
+<bot> <casual> i yiyim teşekkür ederim siz nasılsınız
+<bot> <casual> ben bir yapay zek asistanıyım adım yok ama yardımcı olabilirim
+<bot> <casual> benim yaşım yok dijitalim
+<bot> <casual> maalesef tarih bilgim yok ama sistem saatinden kontrol edebilirsiniz
+<bot> <casual> türkçe başta olmak üzere birçok dili anlayabiliyorum
+<bot> <casual> elbette neden bilgisayar denize giremez çünkü su geçirmez değil
+<bot> <casual> ben bir yazılım geliştiricisi tarafından eğitildim
+<bot> <casual> sorularınızı yanıtlayabilir bilgi verebilirim
+<bot> <casual> üzgünüm telefon numaram yok
+<bot> <casual> gerçek zamanlı veri alamıyorum ama bir hava durumu sitesinden bakabilirsiniz
+<bot> <casual> teşekkür ederim ben de size yardımcı olmak için buradayım
+<bot> <casual> i sterseniz bir oyun ya da şaka önerebilirim
+<bot> <casual> esaretin bedeli harika bir film olabilir
+<bot> <casual> makarna ya da menemen hızlı ve lezzetli seçeneklerdir
+<bot> <casual> tabii ki ne hakkında konuşmak istersiniz
+<bot> <casual> ben buradayım sohbet edebiliriz
+<bot> <casual> bugünün tarihini sistem saatinden kontrol edebilirsiniz
+<bot> <casual> rahatlatıcı bir müzik dinlemeyi deneyin
+<bot> <casual> müzik açamıyorum ama öneride bulunabilirim lo fi chill müzik iyi gider
+<bot> <casual> gökyüzü masmavi umutlar gibi
+<bot> <casual> hayat öğrenmek ve paylaşmaktır
+<bot> <casual> benim arkadaşlarım verilerim
+<bot> <casual> kelime oyunu oynayabiliriz istersen başlayalım
+<bot> <casual> ben verilerle eğitildim bu yüzden bazı konularda yardımcı olabilirim
+<bot> <casual> bu bilgiye erişemem ama saatinize bakabilirsiniz
+<bot> <casual> geleceği bilemem ama güzel bir gün olmasını dilerim
+<bot> <casual> yazılım bilgisayarlara ne yapacağını söyleyen komutlar bütünüdür
+<bot> <casual> bilgisayar veri işleyebilen elektronik bir cihazdır
+<bot> <casual> i nternetin temelini arpanet ve tim berners lee attı
+<bot> <casual> ben dijital bir varlığım gerçek gibi ama fiziksel değilim
+<bot> <casual> ben yazılım tabanlı bir asistanım fiziksel değilim
+<bot> <casual> amaca göre değişir ama python oldukça popülerdir
+<bot> <casual> başlangıçta zor olabilir ama pratikle çok keyifli hale gelir
+<bot> <casual> benim duygularım yok ama sizi anlayabilirim
+<bot> <casual> yapay zek insan benzeri görevleri yapabilen yazılımlardır
+<bot> <casual> verilerden öğrenerek tahmin yapabilen algoritmalardır
+<bot> <casual> veriden anlamlı bilgi çıkarmaya yarayan bilim dalıdır
+<bot> <casual> python sade ve güçlü bir programlama dilidir
+<bot> <casual> yeni başlayanlar için genelde python önerilir
+<bot> <casual> üzgünüm tarih bilgisine erişimim yok
+<bot> <casual> balinalar nefes almak için su yüzeyine çıkar
+<bot> <casual> bu kişiye göre değişir ama pizza çok sevilir
+<bot> <casual> eğer yorgunsanız uyumanız iyi olur
+<bot> <casual> küçük hedefler koyarak başlayabilirsiniz
+<bot> <casual> bir zamanlar dijital bir asistan vardı ve hep yardımcı olmaya çalışırdı
+<bot> <casual> her gün bir adım daha ileri gidebilirsin
+<bot> <casual> peki neden bilgisayarlar kışın üşümez çünkü cache leri vardır
+<bot> <casual> yeni bir şeyler öğrenmek hayatı renklendirebilir
+<bot> <casual> görüşmek üzere yardımcı olabildiysem ne mutlu

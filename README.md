@@ -1,8 +1,8 @@
-# SimpleTransformerFromScratch
+# A-Comprehensive-Guide-to-Building-a-Simple-Transformer-Model-From-Scratch
 
 ## Proje Hakkında
 
-**SimpleTransformerFromScratch**, Transformer mimarisini temelinden başlayarak ileri seviyeye kadar detaylı ve kapsamlı şekilde inceleyen bir derin öğrenme projesidir.
+**A-Comprehensive-Guide-to-Building-a-Simple-Transformer-Model-From-Scratch**, Transformer mimarisini temelinden başlayarak ileri seviyeye kadar detaylı ve kapsamlı şekilde inceleyen bir derin öğrenme projesidir.
 
 Bu projede, Transformer’ın teorik temelleri, model yapısı ve attention mekanizmaları gibi temel konuların yanı sıra, tokenizer ve embedding teknikleri gibi doğal dil işleme için kritik öneme sahip ileri seviye bileşenler de adım adım ve derinlemesine açıklanmaktadır.
 
@@ -34,5 +34,5 @@ Bu projede, Transformer’ın teorik temelleri, model yapısı ve attention meka
 
 ```bash
 # Repository'i klonlayın
-git clone https://github.com/huseyin-dgn/SimpleTransformerFromScratch.git
+git clone https://github.com/huseyin-dgn/A-Comprehensive-Guide-to-Building-a-Simple-Transformer-Model-From-Scratch.git
 
